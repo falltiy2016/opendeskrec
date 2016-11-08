@@ -18,6 +18,9 @@
     .header .right-nav ul li {
       display: inline-block;
       padding: 20px; }
+      .header .left-nav ul li:hover,
+      .header .right-nav ul li:hover {
+        background-color: #F0F0F2; }
   .header .right-nav {
     text-align: right; }
 
