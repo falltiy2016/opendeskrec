@@ -1,13 +1,15 @@
-.container-fluid{
-
-	.row{
-
-	}
-
-	.pic{
-			img{
-				width: 100%;
-			}
-		}
-	}
+.container-fluid {
+    .row {
+    	.left-nav li {
+    		list-style: none;
+    	}
+    	.right-nav li {
+    		list-style: none;
+    	}
+    }
+    .pic {
+        img {
+            width: 100%;
+        }
+    }
 }
