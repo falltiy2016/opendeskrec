@@ -46,6 +46,27 @@
 	}
 }
 
+.slogan{
+	padding: 40px;
+
+	.row{
+
+		h2{
+			font-weight: 300;
+		}
+		
+		p{
+			font-weight: 300;
+		}
+	}
+
+	button{
+		float: right;
+		background-color: green;
+		color: white;
+	}
+}
+
 #images {
   background-color: #f8f8f9;
 }

@@ -24,5 +24,16 @@
   .header .right-nav {
     text-align: right; }
 
+.slogan {
+  padding: 40px; }
+  .slogan .row h2 {
+    font-weight: 300; }
+  .slogan .row p {
+    font-weight: 300; }
+  .slogan button {
+    float: right;
+    background-color: green;
+    color: white; }
+
 #images {
   background-color: #f8f8f9; }
