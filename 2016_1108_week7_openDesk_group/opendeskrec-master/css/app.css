@@ -6,3 +6,17 @@
 
 .container-fluid .pic img {
   width: 100%; }
+
+.header {
+  background-color: #f4f4f4; }
+  .header .logo .logo-image {
+    max-height: 50px; }
+  .header .left-nav ul,
+  .header .right-nav ul {
+    margin: 0; }
+    .header .left-nav ul li,
+    .header .right-nav ul li {
+      display: inline-block;
+      padding: 20px; }
+  .header .right-nav {
+    text-align: right; }
